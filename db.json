@@ -1,0 +1,22 @@
+{
+  "phones": [
+    {
+      "name": "Apple",
+      "model": "Iphone 12",
+      "price": 524999,
+      "id": 1
+    },
+    {
+      "name": "Samsung",
+      "price": 344999,
+      "model": "Galaxy S21",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "Xiaomi",
+      "price": 27999,
+      "model": "Mi 11"
+    }
+  ]
+}
