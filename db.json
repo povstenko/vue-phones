@@ -2,8 +2,8 @@
   "phones": [
     {
       "name": "Apple",
-      "model": "Iphone 12",
       "price": 524999,
+      "model": "Iphone 13",
       "id": 1
     },
     {
