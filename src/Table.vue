@@ -87,7 +87,7 @@ export default {
         });
       } else if (this.selected == "price") {
         return this.phones.filter(post => {
-          return post.price.toLowerCase().includes(this.search.toLowerCase());
+          return post.price.toString().includes(this.search.toLowerCase());
         });
       }
     }
